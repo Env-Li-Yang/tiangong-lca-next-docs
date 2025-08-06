@@ -16,6 +16,7 @@ sidebar_position: 2
 ```bash
 npx @modelcontextprotocol/inspector
 ```
+
 1. Transport Type配置：在Inspector页面，点击下拉框，选择Streamable HTTP。  
 2. url配置：填写MCP Server端口https://mcp.tiangong.earth/mcp。  
 3. 令牌配置：将上述流程获取的API Key填入相应的token字段。
